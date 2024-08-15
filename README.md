@@ -13,7 +13,7 @@ N/A
 
 N/A
 
-*the deployed link "
+*the deployed link "https://betsyassefa.github.io/payroll-3/"
 
 the deployed page should resemble the below page.
 ![deployed page](./assets/images/functionality-video.gif.mp4)
